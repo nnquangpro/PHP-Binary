@@ -9,6 +9,9 @@ case $ARCH in
     armv7l)
         URL="https://raw.githubusercontent.com/nnquangpro/PHP-Binary/main/packages/termux/arm/phpb"
         ;;
+    armv8l)
+        URL="https://raw.githubusercontent.com/nnquangpro/PHP-Binary/main/packages/termux/arm/phpb"
+        ;;
     i686)
         URL="https://raw.githubusercontent.com/nnquangpro/PHP-Binary/main/packages/termux/i686/phpb"
         ;;
