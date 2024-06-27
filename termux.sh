@@ -10,7 +10,7 @@ case $ARCH in
         URL="https://raw.githubusercontent.com/nnquangpro/PHP-Binary/main/packages/termux/arm/phpb"
         ;;
     armv8l)
-        URL="https://raw.githubusercontent.com/nnquangpro/PHP-Binary/main/packages/termux/arm/phpb"
+        URL="https://raw.githubusercontent.com/nnquangpro/PHP-Binary/main/packages/termux/aarch64/phpb"
         ;;
     i686)
         URL="https://raw.githubusercontent.com/nnquangpro/PHP-Binary/main/packages/termux/i686/phpb"
