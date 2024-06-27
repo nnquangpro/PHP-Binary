@@ -41,3 +41,6 @@ curl -L -o $HOME/phpb $URL
 chmod +x $HOME/phpb
 
 echo "PHP binary installed successfully"
+echo "Note: For Linux OS, PHPBinary will be installed into \$HOME/phpb ($HOME/phpb)"
+echo "Please run PHPBinary files using the command:"
+echo "$HOME/phpb FILE_PHPBINARY"
